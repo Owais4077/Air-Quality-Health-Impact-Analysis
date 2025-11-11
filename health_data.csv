@@ -1,0 +1,7 @@
+City,Date,Asthma_Cases,Bronchitis_Cases,Respiratory_Admissions
+CityA,2023-01-01,15,10,25
+CityA,2023-01-02,18,12,30
+CityB,2023-01-01,10,8,18
+CityB,2023-01-02,12,9,21
+CityA,2023-01-03,17,11,28
+CityB,2023-01-03,11,8,19
